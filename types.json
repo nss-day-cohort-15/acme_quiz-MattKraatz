@@ -1,0 +1,58 @@
+{
+  "types": [
+    {
+      "id": 0,
+      "category": 0,
+      "name": "Vinyl",
+      "description": "The classic, collectable format for audiophiles and nostalgists alike"
+    },
+    {
+      "id": 1,
+      "category": 0,
+      "name": "CD",
+      "description": "Physical compact discs for the highest quality listening experience"
+    },
+    {
+      "id": 2,
+      "category": 0,
+      "name": "Digital",
+      "description": "Digital, DRM-free music available instantly for download after purchase"
+    },
+        {
+      "id": 0,
+      "category": 1,
+      "name": "VHS",
+      "description": "The classic, collectable format for vidiophiles and nostalgists alike"
+    },
+    {
+      "id": 1,
+      "category": 1,
+      "name": "Blu-ray",
+      "description": "Physical bluray discs for the highest quality listening experience"
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "name": "Digital",
+      "description": "Digital, DRM-free video files available instantly for download after purchase"
+    },
+        {
+      "id": 0,
+      "category": 2,
+      "name": "Paperback",
+      "description": "Affordable and compact paperbound books to take on-the-go"
+    },
+    {
+      "id": 1,
+      "category": 2,
+      "name": "Hardcover",
+      "description": "Hardbound books for protecting your favorite stories and essays"
+    },
+    {
+      "id": 2,
+      "category": 2,
+      "name": "Digital",
+      "description": "Digital, DRM-free files available instantly for download after purchase"
+    }
+  ]
+}

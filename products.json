@@ -1,0 +1,58 @@
+{
+  "products": [{
+    "hamilton": {
+        "id": 0,
+        "type": 0,
+        "name": "Hamilton Soundtrack",
+        "description": "Original Broadway Cast Recording"
+    },
+    "beatles": {
+        "id": 0,
+        "type": 1,
+        "name": "The Beatles: Live At the Hollywood Bowl",
+        "description": "Captures the band's three sold-out concerts at Los Angeles in 1964 and 1965."
+    },
+    "bruce": {
+        "id": 0,
+        "type": 2,
+        "name": "Chapter and Verse",
+        "description": "Chapter and Verse is the audio companion to Bruce Springsteen's autobiography, Born to Run."
+    },
+    "pets": {
+        "id": 1,
+        "type": 0,
+        "name": "Secret Life of Pets",
+        "description": "Action/adventure comedy taking a hilarious look into the lives of Pets."
+    },
+    "zootopia": {
+        "id": 1,
+        "type": 1,
+        "name": "Zootopia",
+        "description": "Animated comedy-adventure set in the modern mammal metropolis of Zootopia."
+    },
+    "xmen": {
+        "id": 1,
+        "type": 2,
+        "name": "X-Men: Apocalypse",
+        "description": "Professor X and Raven lead a team of young X-Men to stop their seemingly invincible nemesis from destroying mankind."
+    },
+    "50shades": {
+        "id": 2,
+        "type": 0,
+        "name": "50 Shades of Grey",
+        "description": "A GoodReads Choice Awards Finalist for Best Romance."
+    },
+    "hunger": {
+        "id": 2,
+        "type": 1,
+        "name": "The Hunger Games",
+        "description": "In the ruins of North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts."
+    },
+    "harry": {
+        "id": 2,
+        "type": 2,
+        "name": "Harry Potter and the Deathly Hallows",
+        "description": "A hero's mission,not just in Harry's quest for the Horcruxes, but in his journey from boy to man."
+    }
+  }]
+}
